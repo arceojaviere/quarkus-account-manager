@@ -1,0 +1,12 @@
+[submodule "quarkus-account-manager-frontend"]
+	path = quarkus-account-manager-frontend
+	url = https://github.com/arceojaviere/quarkus-account-manager-frontend.git
+[submodule "https:/github.com/arceojaviere/quarkus-account-service.git"]
+	path = https:/github.com/arceojaviere/quarkus-account-service.git
+	url = https://github.com/arceojaviere/quarkus-person-service.git
+[submodule "quarkus-person-service"]
+	path = quarkus-person-service
+	url = https://github.com/arceojaviere/quarkus-person-service.git
+[submodule "quarkus-account-service"]
+	path = quarkus-account-service
+	url = https://github.com/arceojaviere/quarkus-account-service.git
